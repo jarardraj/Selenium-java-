@@ -1,0 +1,10 @@
+	[INFO ] 2021-06-14 21:01:32.744 [main] Log4jdemo - After printing program message
+[DEBUG] 2021-06-14 21:01:32.747 [main] Log4jdemo - Printing debug message
+[ERROR] 2021-06-14 21:01:32.747 [main] Log4jdemo - Printing error message
+[FATAL] 2021-06-14 21:01:32.747 [main] Log4jdemo - Printing Fatal message
+[WARN ] 2021-06-14 21:01:32.747 [main] Log4jdemo - Printing Warning message
+[INFO ] 2021-06-14 21:06:59.052 [main] Log4jdemo - After printing program message
+[DEBUG] 2021-06-14 21:06:59.054 [main] Log4jdemo - Printing debug message
+[ERROR] 2021-06-14 21:06:59.054 [main] Log4jdemo - Printing error message
+[FATAL] 2021-06-14 21:06:59.055 [main] Log4jdemo - Printing Fatal message
+[WARN ] 2021-06-14 21:06:59.055 [main] Log4jdemo - Printing Warning message
